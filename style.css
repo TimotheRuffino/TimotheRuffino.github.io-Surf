@@ -1,0 +1,56 @@
+.my-jumbo{
+  background-image: url(images/surf.jpg);
+  height: 550px;
+  background-size: cover;
+}
+
+.font-surf{
+  font-size: 55px;
+}
+
+.font-logo{
+  font-size: 100px;
+}
+
+.font-text {
+  font-size: 30px
+}
+
+.font-text2{
+  font-size: 20px;
+  text-align: left;
+}
+
+.temoi{
+  margin-top: 70px;
+
+}
+
+.font-prix {
+  font-size: 55px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.size-prix {
+  font-size: 35px;
+}
+
+.size-des {
+  font-size: 15px;
+}
+
+.info {
+  border-color: #2196F3;
+  color: white
+}
+
+.footer {
+  
+  margin-top: 30px;
+}
+
+.mo {
+  color: grey;
+
+}
